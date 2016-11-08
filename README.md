@@ -1,10 +1,4 @@
 # Project Title
-[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
-[![Gitter chat](https://badges.gitter.im/tumblenet/tumblenet-home-beta.png)](https://gitter.im/tumblenet/repository-template)
-[![codecov](https://codecov.io/gh/tumblenet/repository-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tumblenet/repository-template)
-[![Code Climate](https://codeclimate.com/github/tumblenet/repository-template/badges/gpa.svg)](https://codeclimate.com/github/tumblenet/repository-template)
-[![Test Coverage](https://codeclimate.com/github/tumblenet/repository-template/badges/coverage.svg)](https://codeclimate.com/github/tumblenet/repository-template/coverage)
-[![Issue Count](https://codeclimate.com/github/tumblenet/repository-template/badges/issue_count.svg)](https://codeclimate.com/github/tumblenet/repository-template)
 
 TODO: Write a project description
 
@@ -21,6 +15,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the tests
 See [Travis][travis].
+
+## Status
+### Code Quality
+[![Code Climate](https://codeclimate.com/github/tumblenet/repository-template/badges/gpa.svg)](https://codeclimate.com/github/tumblenet/repository-template)
+[![Test Coverage](https://codeclimate.com/github/tumblenet/repository-template/badges/coverage.svg)](https://codeclimate.com/github/tumblenet/repository-template/coverage)
+[![Issue Count](https://codeclimate.com/github/tumblenet/repository-template/badges/issue_count.svg)](https://codeclimate.com/github/tumblenet/repository-template)
+[![codecov](https://codecov.io/gh/tumblenet/repository-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tumblenet/repository-template)
+
+### Continuous Intergration
+[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
+[![Gitter chat](https://badges.gitter.im/tumblenet/tumblenet-home-beta.png)](https://gitter.im/tumblenet/repository-template)
 
 ## Deployment
 Add additional notes about how to deploy this on a live system
