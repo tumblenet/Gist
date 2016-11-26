@@ -6,7 +6,7 @@ rvm:
 script:
   - zip
 - cd TEMPLATE
-- zip TEMPLATE.zip .
+- zip TEMPLATE.zip *
 
 deploy:
   provider: releases
