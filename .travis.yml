@@ -2,9 +2,8 @@ language: ruby
 rvm:
 - 2.0.0
 
-
 script:
-  - zip
+- zip
 - cd TEMPLATE
 - zip TEMPLATE.zip *
 
