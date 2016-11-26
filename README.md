@@ -1,5 +1,14 @@
 # Project Title
 
+[![Code Climate](https://codeclimate.com/github/tumblenet/repository-template/badges/gpa.svg)](https://codeclimate.com/github/tumblenet/repository-template)
+[![Test Coverage](https://codeclimate.com/github/tumblenet/repository-template/badges/coverage.svg)](https://codeclimate.com/github/tumblenet/repository-template/coverage)
+[![Issue Count](https://codeclimate.com/github/tumblenet/repository-template/badges/issue_count.svg)](https://codeclimate.com/github/tumblenet/repository-template)
+[![codecov](https://codecov.io/gh/tumblenet/repository-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tumblenet/repository-template)
+
+### Continuous Intergration
+[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
+[![Gitter chat](https://badges.gitter.im/tumblenet/tumblenet-home-beta.png)](https://gitter.im/tumblenet/repository-template)
+
 TODO: Write a project description
 
 ## Supported Browsers:
@@ -16,17 +25,6 @@ These instructions will get you a copy of the project up and running on your loc
 ## Running the tests
 See [Travis][travis].
 
-## Status
-### Code Quality
-[![Code Climate](https://codeclimate.com/github/tumblenet/repository-template/badges/gpa.svg)](https://codeclimate.com/github/tumblenet/repository-template)
-[![Test Coverage](https://codeclimate.com/github/tumblenet/repository-template/badges/coverage.svg)](https://codeclimate.com/github/tumblenet/repository-template/coverage)
-[![Issue Count](https://codeclimate.com/github/tumblenet/repository-template/badges/issue_count.svg)](https://codeclimate.com/github/tumblenet/repository-template)
-[![codecov](https://codecov.io/gh/tumblenet/repository-template/branch/master/graph/badge.svg)](https://codecov.io/gh/tumblenet/repository-template)
-
-### Continuous Intergration
-[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
-[![Gitter chat](https://badges.gitter.im/tumblenet/tumblenet-home-beta.png)](https://gitter.im/tumblenet/repository-template)
-
 ## Deployment
 Add additional notes about how to deploy this on a live system
 
@@ -39,7 +37,7 @@ Add additional notes about how to deploy this on a live system
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tumblenet/repository-template/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/tumblenet/repository-template/tags).
 
 ## Authors
 * **Tumble** - *Jekyll, liquid, html, css and js* - [tumble1999](https://github.com/tumble1999)
