@@ -1,5 +1,6 @@
 # Repository Template
 [![Gitter chat](https://badges.gitter.im/tumblenet/repository-template.png)](https://gitter.im/tumblenet/repository-template)
+[![Build Status](https://travis-ci.org/tumblenet/repository-template.svg?branch=master)](https://travis-ci.org/tumblenet/repository-template)
 
 This is the base template used by the people at @tumblenet use.
 
