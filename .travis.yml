@@ -5,6 +5,7 @@ rvm:
 script:
 - cd TEMPLATE
 - zip TEMPLATE.zip *
+- git add .
 
 deploy:
   provider: releases
