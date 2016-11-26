@@ -1,4 +1,4 @@
- What happened
+# What happened
 (insert screeenshots about what happend)
 
 # What i was doing to cause this
