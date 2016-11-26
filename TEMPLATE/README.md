@@ -48,7 +48,7 @@ See also the list of [contributors](https://github.com/USER/REPO/contributors) w
 This project is licensed under the ### License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* [Repository template (ver 1.0)](http://github.com/tumblenet/repository-template) by @tumblenet
+* [Repository template (ver 1.0)](http://github.com/tumblenet/repository-template)[![GitHub version](https://badge.fury.io/gh/tumblenet%2Frepository-template.svg)](https://badge.fury.io/gh/tumblenet%2Frepository-template) by @tumblenet
 * Hat tip to anyone who's code was used
 * Inspiration
 * etc

@@ -32,4 +32,4 @@ See also the list of [contributors](https://github.com/tumblenet/repository-temp
 This project is licensed under the ### License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-* [Repository template (ver 1.0)](http://github.com/tumblenet/repository-template/releases) by @tumblenet
+* [Repository template](http://github.com/tumblenet/repository-template/releases)[![GitHub version](https://badge.fury.io/gh/tumblenet%2Frepository-template.svg)](https://badge.fury.io/gh/tumblenet%2Frepository-template) by @tumblenet
