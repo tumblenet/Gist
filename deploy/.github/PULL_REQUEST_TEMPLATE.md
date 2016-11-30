@@ -1,8 +1,8 @@
 Fixes #.
 
+Changes proposed in pull request.
 -
 -
 -
 
-### Who should know
 @tumblenet
