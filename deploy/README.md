@@ -8,7 +8,7 @@ TODO: In a text editor replace `USER` with the name of the user of the repositor
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/USER/REPO/tags).
 
 ## Installing
-
+<Install 
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
