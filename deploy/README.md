@@ -38,17 +38,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 ## Versioning
 We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/USER/REPO/tags).
 
-## Authors
+## Credits
 * **Tumble** - *Jekyll, liquid, html, css and js* - [tumble1999](https://github.com/tumble1999)
 * **DBW** - *Markdown, English, frontend* - [drbatmanwho](https://github.com/drbatmanwho)
 
 See also the list of [contributors](https://github.com/USER/REPO/contributors) who participated in this project.
 
 ## License
-This project is licensed under the ### License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-* [Repository template (ver 1.0)](http://github.com/tumblenet/repository-template)[![GitHub version](https://badge.fury.io/gh/tumblenet%2Frepository-template.svg)](https://badge.fury.io/gh/tumblenet%2Frepository-template) by @tumblenet
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+This project is licensed under the ### License - see the [LICENSE.md](LICENSE.md) file for details.
