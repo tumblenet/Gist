@@ -3,7 +3,7 @@ rvm:
 - 2.0.0
 
 script:
-- zip REPO_TEMPLATE.zip deply/*
+- zip REPO_TEMPLATE.zip deploy/*
 - git add .
 
 deploy:
