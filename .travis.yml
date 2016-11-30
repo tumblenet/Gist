@@ -13,3 +13,4 @@ deploy:
   file: "REPO_TEMPLATE.zip"
   on:
     repo: tumblenet/repository-template
+    tags: true
