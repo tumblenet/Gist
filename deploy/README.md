@@ -1,6 +1,17 @@
 # Project Name
 A description of your project follows. A good description is clear, short, and to the point. Describe the importance of your project, and what it does.
 
+# Table of Contents
+
+- [Project Name](#)
+	- [Installation](#)
+	- [Usage](#)
+	- [Contributing](#)
+	- [Credits](#)
+	- [License](#)
+  
+To update use [DocToc](http://doctoc.herokuapp.com/).
+
 ## Installation
 Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
 
