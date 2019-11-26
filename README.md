@@ -46,7 +46,7 @@ TODO: Finally, include a section for the license of your project. For more infor
 
 
 ## Acknowledgments
-* [README Template](https://github.com/tumblenet/repository-template) by [tumble1999](github.com/tumble1999]
+* [README Template](https://github.com/tumblenet/repository-template) by [tumble1999](github.com/tumble1999)
 
 * Hat tip to anyone who's code was used
 * Inspiration
